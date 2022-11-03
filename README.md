@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KeyurGK
-- 👀 I’m interested in Web 3.0 and AI/ML
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me ...
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Front End Development i.e HTML,CSS,Javascript
+- 💞️ I’m looking to collaborate on HTML-CSS-Javascript
+- 📫 9pmnsgkulkarni@gmail.com
 
 <!---
 KeyurGK/KeyurGK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
