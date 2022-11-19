@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Front End Development i.e HTML,CSS,Javascript
 - 💞️ I’m looking to collaborate on HTML-CSS-Javascript
-- 📫 9pmnsgkulkarni@gmail.com
+- 📫 kulkarnikeyur.g@gmail.com
 
 <!---
 KeyurGK/KeyurGK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
