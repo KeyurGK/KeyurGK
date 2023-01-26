@@ -26,7 +26,7 @@
 - I am also a Speaker🎤 and Runner🏃🏽 !
 ---
 
-📌 Have a look at my [Portfolio]('keyurgk.vercel.app')
+📌 Have a look at my [Portfolio]('https://keyurgk.vercel.app')
 
 📌 Contact Me :
 
