@@ -26,6 +26,7 @@
 - I am also a Speaker🎤 and Runner🏃🏽 !
 ---
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeyurGK&show_icons=true&theme=dark)](https://github.com/KeyurGK)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KeyurGK)](https://git.io/streak-stats)
 
 📌 Have a look at my [Portfolio](https://keyurgk.vercel.app/)
 
