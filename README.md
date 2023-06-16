@@ -23,7 +23,7 @@
     🔺 Working with TCS by Developing Software for Jagauar Landrover-UK. <br>
     🔺 Co-founded SIMPLY-5 and lead Elevator Pitching, Product Development and Product Marketing.<br>
     
-- I am also a Speaker🎤 and Runner🏃🏽 !
+- I am a Speaker🎤 and Runner🏃🏽 !
 ---
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeyurGK&show_icons=true&theme=dark)](https://github.com/KeyurGK)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KeyurGK)](https://git.io/streak-stats)
