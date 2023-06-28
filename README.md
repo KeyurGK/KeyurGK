@@ -18,6 +18,9 @@
 
 <img style="float: right;" src='https://github.com/KeyurGK/images/blob/main/html.png' width='50' height='50'> <img src='https://github.com/KeyurGK/images/blob/main/css.png' width='50' height='50'> <img src='https://github.com/KeyurGK/images/blob/main/javascript.png' width='50' height='50'> <img src='https://github.com/KeyurGK/images/blob/main/react.png' width='50' height='50'>
 
+- 💻 _Database_: <br>
+
+
 - 💻 _Work Experience_:<br><br>
     🔺 Freelance Web Developer. My freelance efforts has helped me a ton in learning Web Development🚀<br>
     🔺 Working with TCS by Developing Software for Jagauar Landrover-UK. <br>
