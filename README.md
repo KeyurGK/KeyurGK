@@ -22,6 +22,9 @@
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
+- _Styles_: <br>
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
 
 - 💻 _Work Experience_:<br><br>
     🔺 Freelance Web Developer. My freelance efforts has helped me a ton in learning Web Development🚀<br>
