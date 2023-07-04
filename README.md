@@ -1,6 +1,6 @@
 # Namaskar 🙏🏼
 
-📌 **Keyur G. Kulkarni** this side, an aspiring🪜 **Front End Developer** and currently building 🆒 real-world projects.
+📌 **Keyur G. Kulkarni** this side, a🪜 **Front End Developer** and currently building 🆒 real-world projects.
 
 📌 **Tougher the Challenges, Greater the Glory🔥** is my mantra.
 
@@ -10,24 +10,24 @@
 
 # ⚒️Skills :
 
-- 💻 _Languages_:
+- 💻 _Languages_ :
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- 💻 _Front-End Development_: <br>
+- 💻 _Front-End Development_ : <br>
 
-<img style="float: right;" src='https://github.com/KeyurGK/images/blob/main/html.png' width='50' height='50'> <img src='https://github.com/KeyurGK/images/blob/main/css.png' width='50' height='50'> <img src='https://github.com/KeyurGK/images/blob/main/javascript.png' width='50' height='50'> <img src='https://github.com/KeyurGK/images/blob/main/react.png' width='50' height='50'>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-- 💻 _Database_: <br>
+- 💻 _Database_ : <br>
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-- _Styles_: <br>
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+- 💻 _UI Frameworks_ : <br>
+
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 - 💻 _Work Experience_:<br><br>
-    🔺 Freelance Web Developer. My freelance efforts has helped me a ton in learning Web Development🚀<br>
     🔺 Working with TCS by Developing Software for Jagauar Landrover-UK. <br>
     🔺 Co-founded SIMPLY-5 and lead Elevator Pitching, Product Development and Product Marketing.<br>
     
