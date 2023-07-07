@@ -32,6 +32,8 @@
     🔺 Co-founded SIMPLY-5 and lead Elevator Pitching, Product Development and Product Marketing.<br>
     
 - I am a Speaker🎤 and Runner🏃🏽 !
+
+- ![](https://komarev.com/ghpvc/?username=KeyurGK&style=flat-square)
 ---
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeyurGK&show_icons=true&theme=dark)](https://github.com/KeyurGK)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KeyurGK)](https://git.io/streak-stats)
