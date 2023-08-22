@@ -1,10 +1,6 @@
 # Namaskar 🙏🏼
 
-📌 **Keyur G. Kulkarni** this side, a🪜 **Front End Developer** and currently building 🆒 real-world projects.
-
-📌 **Tougher the Challenges, Greater the Glory🔥** is my mantra.
-
-📌Passionate Consistency, Discipline and Focus are the key to my journey.
+📌 **Keyur G. Kulkarni** this side, a🪜 **Front End Developer** and **Blockchain Enthusiast**
 
 ---
 
@@ -28,8 +24,8 @@
 
 
 - 💻 _Work Experience_:<br><br>
-    🔺 Working with TCS by Developing Software for Jagauar Landrover-UK. <br>
-    🔺 Co-founded SIMPLY-5 and lead Elevator Pitching, Product Development and Product Marketing.<br>
+    🔺 Developing Software for Jagauar Landrover-UK as part of @Tata Consultancy Services. <br>
+    🔺 Co-founded SIMPLY-5, led Elevator Pitching, Product Development, and Product Marketing.<br>
     
 - I am a Speaker🎤 and Runner🏃🏽 !
 
