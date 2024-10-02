@@ -1,6 +1,6 @@
 # Namaskar 🙏🏼
 
-📌 **Keyur G. Kulkarni** this side, a🪜 **Front End Developer** and **Open Source Contributor**
+📌 **Keyur G. Kulkarni** this side, a🪜 **Full Stack Developer** and **Open Source Contributor**
 
 ---
 
@@ -26,11 +26,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-- 💻 _Work Experience_:<br><br>
-    🔺 Developing Software for Jagauar Landrover-UK as part of @Tata Consultancy Services. <br>
-    🔺 Co-founded SIMPLY-5, led Elevator Pitching, Product Development, and Product Marketing.<br>
-    
-- I am a Speaker🎤 and Runner🏃🏽 !
 
 - ![](https://komarev.com/ghpvc/?username=KeyurGK&style=flat-square)
 ---
